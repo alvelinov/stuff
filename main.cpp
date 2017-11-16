@@ -1,9 +1,4 @@
-/*
-Aleksandar Velinov
-Faculty number: 45416
-Group 4
-Trion problem
-*/
+
 
 #include <iostream>
 
